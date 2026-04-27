@@ -1,4 +1,4 @@
-### Desmond Lomoko Nii Tackie
+# Desmond Lomoko Nii Tackie
 
 Software Developer | Full Stack & IT Systems | Building Scalable, Reliable Applications
 
@@ -22,30 +22,30 @@ Prioritizing readability, modularity, and long-term sustainability.
 
 ## Tech Stack
 
-# Frontend
+### Frontend
 React · Next.js (App Router) · TypeScript · Tailwind CSS
 State Management: Zustand, Redux
 Data Fetching: SWR
 
-# Backend
+### Backend
 Node.js · Express
 REST API Design · JWT Authentication
 Middleware & Route Structuring
 
-# Database
+### Database
 PostgreSQL · MySQL · Prisma ORM · SQL
 Relational Modeling & Data Integrity
 
-# Mobile
+### Mobile
 React Native (Expo)
 
-## Tools & Workflow
+### Tools & Workflow
 Git (Branching, PRs) · GitHub
 Vercel · Render
 Postman · Environment Configuration
 
 ## Selected Projects
-# CarPool — Ride Booking Platform
+### CarPool — Ride Booking Platform
 
 Full Stack Web Application
 
@@ -56,7 +56,7 @@ Modeled relational database schema using Prisma
 Managed client/server state using SWR and Zustand
 Structured codebase for maintainability and scalability
 
-# Done — Kanban Productivity System
+### Done — Kanban Productivity System
 
 Full Stack Application
 
